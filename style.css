@@ -1,5 +1,5 @@
 html{
-    background-color: lightpink;
+    background-color: #cf015e;
 }
 
 *{
@@ -27,17 +27,17 @@ li a{
 	margin-block: 0.5rem;
 	display: inline-block;
 	text-decoration: none;
-	background-color: rgb(201, 51, 173);
+	background-color: rgb(255, 220, 249);
 	padding-inline: 1rem;
 	padding-block: 0.7rem;
 	border-radius: 5px;
-	border: solid 1px rgb(70, 6, 50);
+	border: solid 1px rgb(31, 0, 21);
 	transition: all .3s ease-in-out;
 }
 
 li a:hover{
-	background-color: #cf015e;
-	border: solid 1px rgb(207, 27, 183);
+	background-color: #ffcbe2;
+	border: solid 1px rgb(116, 0, 52);
 
 	transform: scale(1.1) rotate(2deg);
 
@@ -50,7 +50,7 @@ ul{
 .titulo h1{
 	font-family: "BBH Sans Bartle", system-ui;
 	font-size: 3rem;
-	color: rgb(255, 6, 118);
+	color: rgb(255, 239, 246);
 }
 
 .titulo p{
