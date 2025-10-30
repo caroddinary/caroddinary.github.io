@@ -1,5 +1,5 @@
 html{
-    background-color: lightpink;
+    background-color: #cf015e;
 }
 
 *{
@@ -7,11 +7,11 @@ html{
     font-weight: 800;
 	padding: 2px;
 	margin: 0;
-	color: #ffffff;
+	color: #ffe3ee;
 }
 
 body{
-	background-color: rgb(255, 224, 240);
+	background-color: #cf015e;
 }
 
 main{
@@ -27,17 +27,17 @@ li a{
 	margin-block: 0.5rem;
 	display: inline-block;
 	text-decoration: none;
-	background-color: rgb(221, 41, 86);
+	background-color: rgb(255, 220, 249);
 	padding-inline: 1rem;
 	padding-block: 0.7rem;
 	border-radius: 5px;
-	border: solid 1px rgb(124, 4, 50);
+	border: solid 1px rgb(31, 0, 21);
 	transition: all .3s ease-in-out;
 }
 
 li a:hover{
-	background-color: rgb(240, 192, 255);
-	border: solid 1px rgb(117, 11, 82);
+	background-color: #ffcbe2;
+	border: solid 1px rgb(116, 0, 52);
 
 	transform: scale(1.1) rotate(2deg);
 
@@ -50,7 +50,7 @@ ul{
 .titulo h1{
 	font-family: "BBH Sans Bartle", system-ui;
 	font-size: 3rem;
-	color: rgb(255, 6, 118);
+	color: rgb(255, 239, 246);
 }
 
 .titulo p{
