@@ -28,7 +28,7 @@ class Pelota {
   visualizar() {
     noFill();
     stroke(this.col);
-    strokeWeight(1);
+    strokeWeight(1.5);
     circle(this.posx, this.posy, this.diam);
   }
 }
